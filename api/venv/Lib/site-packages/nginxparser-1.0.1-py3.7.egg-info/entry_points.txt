@@ -1,0 +1,3 @@
+[console_scripts]
+nginxparser = nginxparser.core:main
+

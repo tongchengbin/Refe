@@ -30,6 +30,10 @@ class Config:
         pass
 
 
+    # 调度配置
+    SCHEDULER_VIEWS_ENABLED = True
+
+
 class DevelopmentConfig(Config):
     DEBUG = True
 

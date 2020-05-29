@@ -4,9 +4,11 @@
       <w>flasky</w>
       <w>keepttl</w>
       <w>mysqldb</w>
+      <w>nginx</w>
       <w>passwd</w>
       <w>refe</w>
       <w>sqlalchemy</w>
+      <w>stdin</w>
     </words>
   </dictionary>
 </component>
